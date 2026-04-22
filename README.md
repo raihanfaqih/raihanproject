@@ -1,4 +1,4 @@
-🧮 *INDEKS MASSA TUBUH REMAJA (PYTHON)*
+# 🧮 *INDEKS MASSA TUBUH REMAJA (PYTHON)*
 
 Program sederhana ini dibuat untuk membantu menghitung Indeks Massa Tubuh (IMT) remaja berdasarkan tinggi dan berat badan. IMT berguna untuk mengetahui apakah kondisi tubuh berada dalam kategori kurus, normal, berlebih, atau obesitas.
 
@@ -7,29 +7,29 @@ Program ini cocok untuk pelajar atau pemula yang sedang belajar Python, khususny
 
 ---
 
-✨ *Fitur*
+## ✨ *Fitur*
 
-📏 Menghitung nilai IMT berdasarkan tinggi & berat badan
+ Menghitung nilai IMT berdasarkan tinggi & berat badan
 
-📊 Mengelompokkan IMT ke dalam kategori tubuh
+ Mengelompokkan IMT ke dalam kategori tubuh
 
-🧠 Mudah dipahami & cocok untuk pemula
+ Mudah dipahami & cocok untuk pemula
 
-📝 Menampilkan hasil penilaian dalam bentuk kalimat sederhana
+ Menampilkan hasil penilaian dalam bentuk kalimat sederhana
 
-🔍 Menggunakan logika percabangan untuk menentukan kategori IMT
+ Menggunakan logika percabangan untuk menentukan kategori IMT
 
 ---
 
-📊 *Kategori IMT*
+## 📊 *Kategori IMT*
 
-Nilai IMT	Kategori
-
-< 18.5	Kurus
-18.5 – 24.9	Normal
-25 – 29.9	Berlebih
-30 – 34.9	Obesitas
-≥ 35	Obesitas Tingkat Tinggi
+|Nilai IMT |	Kategori |
+| :---: | --- |
+| **< 18.5** | Kurus|
+| **18.5 – 24.9** | Normal |
+| **25 – 29.9** |	Berlebih |
+| **30 – 34.9** |	Obesitas |
+| **≥ 35** |	Obesitas Tingkat Tinggi |
 
 
 Tabel ini memudahkan pengguna memahami hasil penghitungan program.
@@ -37,7 +37,7 @@ Tabel ini memudahkan pengguna memahami hasil penghitungan program.
 
 ---
 
-💻 *Contoh Hasil Output*
+## 💻 *Contoh Hasil Output*
 
 Jika IMT rendah → “Tubuh anda kurus”
 
@@ -51,7 +51,7 @@ Hasil yang muncul akan menyesuaikan angka IMT pengguna.
 
 ---
 
-🎯 *Tujuan Proyek*
+## 🎯 *Tujuan Proyek*
 
 Proyek ini dibuat untuk:
 
@@ -67,7 +67,7 @@ Menunjukkan contoh kecil penggunaan Python dalam kehidupan nyata
 
 ---
 
-🚀 *Ide Pengembangan Berikutnya*
+## 🚀 *Ide Pengembangan Berikutnya*
 
 Jika ingin lebih lengkap, kamu bisa menambahkan:
 
